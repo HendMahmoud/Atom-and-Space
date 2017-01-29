@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5702EED2-2FD2-CDB2-4F57-3B71D44095B8}</ProjectGuid>
+    <ProjectGuid>{A2D76419-F0AF-5AAD-9E60-CF387CA0E9C4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,8 +53,6 @@
      <Compile Include="Assets\Scripts\Ionic.cs" />
      <Compile Include="Assets\Scripts\Nucleus.cs" />
      <Compile Include="Assets\Scripts\Sphare.cs" />
-     <Compile Include="Assets\Scripts\moon.cs" />
-     <Compile Include="Assets\Scripts\test.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
