@@ -1,9 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class PlayerActions : MonoBehaviour {
 
 	// Use this for initialization
+	SpaceController space;
 	void Start () {
 	
 	}
@@ -25,6 +26,9 @@ public class PlayerActions : MonoBehaviour {
 
 	void selectAtom(){
 		
+	}
+	void changeGravity(double amount,CelestialBodies planet){
+		space.changeGravity(amount,planet.name);
 	}
 
 }
