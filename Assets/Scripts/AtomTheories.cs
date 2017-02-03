@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class AtomTheories : MonoBehaviour {
 	public int[] years;
 	// Use this for initialization
 	void Start () {
@@ -13,7 +13,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	}
 
-	void atomProperities()
+	public void move()
 	{
 		
 	}

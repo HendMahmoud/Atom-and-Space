@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class RutherFordTheory : MonoBehaviour {
+public class RutherFordTheory : AtomTheories {
 	public Electron electron;
 	public string name;
 	public Neuclous neuclus;
@@ -15,6 +15,6 @@ public class RutherFordTheory : MonoBehaviour {
 	
 	}
 
-	void move(){
+	public void move(){
 	}
 }

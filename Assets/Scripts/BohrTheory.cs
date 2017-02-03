@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BohrTheory : MonoBehaviour {
+public class BohrTheory : AtomTheories {
 	public Atom atome ;
 	string name ;
 	// Use this for initialization
@@ -14,5 +14,7 @@ public class BohrTheory : MonoBehaviour {
 	
 	}
 
-	void move()
+	public void move()
+	{
+	}
 }

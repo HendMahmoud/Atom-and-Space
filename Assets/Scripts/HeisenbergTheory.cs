@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class HeisenbergTheory : MonoBehaviour {
+public class HeisenbergTheory : AtomTheories {
 	Atom atom ;
 	string name;
 	// Use this for initialization
@@ -12,5 +12,8 @@ public class HeisenbergTheory : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
+	}
+	public void move()
+	{
 	}
 }
