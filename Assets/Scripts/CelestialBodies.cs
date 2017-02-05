@@ -11,6 +11,7 @@ public class CelestialBodies : MonoBehaviour {
     private string type;
     private CelestialBodies rotateAround;
     public Vector3 position; //add this to class diagram
+    public float gravity;
 
 	// Use this for initialization
 	void Start () {
@@ -28,5 +29,9 @@ public class CelestialBodies : MonoBehaviour {
     public Vector3 getPosition()
     {
         return position;
+    } 
+    public void setGravity(float _gravity)
+    {
+        gravity = _gravity;
     }
 }

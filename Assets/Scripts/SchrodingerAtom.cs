@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Sun : GeneralPlanet {
+public class SchrodingerAtom : AtomTheories {
 
 	// Use this for initialization
 	void Start () {
@@ -13,8 +13,7 @@ public class Sun : GeneralPlanet {
 	
 	}
 
-	void move()
+	public void move()
 	{
-
 	}
 }

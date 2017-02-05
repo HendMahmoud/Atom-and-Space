@@ -1,24 +1,44 @@
+
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 public class SpaceController : MonoBehaviour {
     
     List<CelestialBodies> celestialBodies;
-    
-    SpaceController()
-	{
-        celestialBodies = new List<CelestialBodies>();	
+
+    SpaceController(List<CelestialBodies> bodies)
+    {
+        celestialBodies = new List<CelestialBodies>();
+        this.celestialBodies = bodies;
         //here we have to add all plants and their information
+    }
+    SpaceController()
+    {
+        celestialBodies = new List<CelestialBodies>();
+    }
+
+
+
+
+
+    //Use this for initialization
+    CelestialBodies search (string planetName) {
+        //CelestialBodies planet = celestialBodies. Where (x => x.name == planetName); 
+        //return planet;
+        return null;
+
 	}
-	// Use this for initialization
-	void Start () {
-	
+	public void changeGravity (string planetName, float amount){
+		CelestialBodies planet = search (planetName);  
+		planet.setGravity (amount);
 	}
-	
+	void start () {
+
+	}
 	// Update is called once per frame
 	void Update () {
-	
 	}
 
     public List<CelestialBodies> getCelestialBodies()
