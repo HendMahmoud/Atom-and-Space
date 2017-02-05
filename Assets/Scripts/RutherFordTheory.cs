@@ -2,9 +2,9 @@
 using System.Collections;
 
 public class RutherFordTheory : MonoBehaviour {
-	public Electron electron;
+	public Electrone electron;
 	public string name;
-	public Neuclous neuclus;
+	public Nucleus neuclus;
 	// Use this for initialization
 	void Start () {
 	

@@ -1,7 +1,7 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atom-and-Space", "Assembly-CSharp.csproj", "{5702EED2-2FD2-CDB2-4F57-3B71D44095B8}"
+# Visual Studio 2008
+
+Project("{B8B6B5E5-A1C1-747A-1D77-840F902114B0}") = "Atom-and-Space", "Assembly-CSharp.csproj", "{5702EED2-2FD2-CDB2-4F57-3B71D44095B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

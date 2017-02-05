@@ -14,4 +14,9 @@ public class Player : MonoBehaviour {
 	void Update () {
 	
 	}
+    public Vector3 getPlayerPosition()
+    {
+        return userPosition;
+    }
+
 }

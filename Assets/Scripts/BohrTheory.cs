@@ -15,4 +15,7 @@ public class BohrTheory : MonoBehaviour {
 	}
 
 	void move()
+    {
+
+    }
 }
