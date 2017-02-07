@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Electrone : ScriptableObject {
+public class Particle : ScriptableObject {
 	GameObject sphere;
 	// Use this for initialization
-	public Electrone (Vector3 pos) {
-		sphere = GameObject.CreatePrimitive (PrimitiveType.Sphere);
+	public Particle (Vector3 pos) {
+		sphere = GameObject.CreatePrimitive (PrimitiveType.Plane);
 		sphere.transform.position = pos;
 
 	}

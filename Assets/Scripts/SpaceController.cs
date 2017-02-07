@@ -22,7 +22,6 @@ public class SpaceController : MonoBehaviour {
 
 
 
-
     //Use this for initialization
     CelestialBodies search (string planetName) {
         //CelestialBodies planet = celestialBodies. Where (x => x.name == planetName); 

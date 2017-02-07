@@ -1,8 +1,8 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class BohrTheory : AtomTheories {
-	public Atom atome ;
+	//public Atom atome ;
 	string name ;
 	// Use this for initialization
 	void Start () {
@@ -14,8 +14,7 @@ public class BohrTheory : AtomTheories {
 	
 	}
 
-
-	public void move()
-	{
+	void move(){
+		
 	}
 }

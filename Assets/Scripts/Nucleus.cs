@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Nucleus : MonoBehaviour {
 	
-	private ArrayList brotones;
-	private ArrayList netrones;
 
-	public Nucleus (int numOfProtones,int numOfNeutrones){
-		brotones = new ArrayList ();
-		netrones = new ArrayList ();
+
+	// Use this for initialization
+	public Nucleus (Vector3 pos) {
+		
+
 	}
 
 	// Use this for initialization

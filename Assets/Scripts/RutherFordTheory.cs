@@ -1,13 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
-
-public class RutherFordTheory : AtomTheories 
-{
-	public Electrone electron;
-
+public class RutherFordTheory : AtomTheories {
+	//public Electrone electron;
 	public string name;
-	public Nucleus neuclus;
+	//public Nucleus neuclus;
 	// Use this for initialization
 	void Start () {
 	
