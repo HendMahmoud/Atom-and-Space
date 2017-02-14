@@ -89,12 +89,16 @@
     <Compile Include="Assets\Scripts\Ionic.cs" />
     <Compile Include="Assets\Scripts\Nucleus.cs" />
     <Compile Include="Assets\Scripts\Planet.cs" />
+    <Compile Include="Assets\Scripts\PlanetInfo.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerActions.cs" />
     <Compile Include="Assets\Scripts\RutherFordTheory.cs" />
     <Compile Include="Assets\Scripts\SchrodingerAtom.cs" />
     <Compile Include="Assets\Scripts\SpaceController.cs" />
     <Compile Include="Assets\Scripts\Sphare.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Scripts\planetsInfo.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

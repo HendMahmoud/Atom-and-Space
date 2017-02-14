@@ -1,0 +1,75 @@
+Earth
+Volume 1.08321×10^12 km3
+radius 6371.0 km
+Circumference 40075.017 km
+Mass 5.97237×10^24 kg
+TypeOfSoil*a mixture of minerals, organic matter, gases, liquids, and countless organisms that together support life on Earth.
+TheAverageTemperature 16 C
+positionFromSun*not too close or too far away from the sun. It lies in a "Goldilocks zone" 
+OrbitalPeriod 365 days
+NumberOfHoursInOneDay*24h
+numberOfMoons 1
+lightSpeed 299792458 metres per second
+GravityAmount 9.807 m/s²
+DistanceBetweenSunAndEarth 149.6 million km
+---------------------------------------------
+Jupiter
+volume 1.43 x 10^15 largest planets 
+radius 69911 km
+Circumference 439264 km
+Mass 1.8986×10^27 kg
+TypeOfSoil*gas giant planet. Its atmosphere is made up of mostly hydrogen gas and helium gas, like the sun. The planet is covered in thick red, brown, yellow and white clouds. The clouds make the planet look like it has stripes
+TheAverageTemperature -145 degrees Celsius
+positionFromSun*fifth planet
+OrbitalPeriod 4300 days
+NumberOfHoursInOneDay*9h 55m 33 seconds
+numberOfMoons 53
+lightSpeed
+GravityAmount 24.79 m/s²
+DistanceBetweenSunAndJupiter 778.5 million km
+--------------------------------------------------------------
+Mars
+Volume 1.6318×10^11 km
+radius 3390 km
+Circumference 21344 km
+Mass 6.4171×10^23 kg
+TypeOfSoil*iron oxide on its surface, giving Mars a red appearance
+TheAverageTemperature -60 degrees C
+positionFromSun*forth planet
+OrbitalPeriod 687 days
+NumberOfHoursInOneDay*24h 39m 35 seconds
+numberOfMoons 2 moons. Their names are Phobos and Deimos
+lightSpeed
+GravityAmount 3.711 m/s²
+DistanceBetweenSunAndMars 227.9 million km
+-----------------------------------------------------------------------
+Mercury
+Volume 6.083×10^10 km3
+radius 2440 km
+Circumference 15329 km
+Mass 3.3011×10^23 kg
+TypeOfSoil*The surface of Mercury is marred by an impressive number of craters. The cratering is deeper than on most terrestrial planets because of its lack of an atmosphere.
+TheAverageTemperature 167 C
+positionFromSun*first planet
+OrbitalPeriod 88 days
+NumberOfHoursInOneDay*1407h 30m 14 seconds
+numberOfMoons 0 moons
+lightSpeed
+GravityAmount 3.7 m/s²
+DistanceBetweenSunAndMercury 57.91 million km
+---------------------------------------------------------------------
+Neptune
+Volume 6.254×10^13 km3
+radius 24622 km
+Circumference 155600 km
+Mass 1.0243×10^26 kg
+TypeOfSoil*As a gas giant (or ice giant), Neptune has no solid surface. In fact, the blue-green disc we have all seen in photographs over the years is actually a bit of an illusion. What we see is actually the tops of some very deep gas clouds, which in turn give way to water and other melted ices that lie over an approximately Earth-size core made of silicate rock and a nickel-iron mix
+TheAverageTemperature -200 degrees Celsius the coldest
+positionFromSun*eighth most planet
+OrbitalPeriod 60,200 days
+NumberOfHoursInOneDay*16h 6m 14 seconds
+numberOfMoons 13 moons
+lightSpeed
+GravityAmount 11.15 m/s²
+DistanceBetweenSunAndNeptune 4.498 billion km
+--------------------------------------------------------------------------------

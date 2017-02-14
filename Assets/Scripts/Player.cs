@@ -7,7 +7,7 @@ public class Player : MonoBehaviour {
 	public PlayerActions paObject;
 	// Use this for initialization
 	void Start () {
-	
+        userPosition = this.transform.position;
 	}
 	
 	// Update is called once per frame
